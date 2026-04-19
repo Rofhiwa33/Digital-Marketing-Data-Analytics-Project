@@ -92,6 +92,7 @@ Better overall predictive performance than logistic regression
   
 📁 Project Structure
 Digital-Marketing-Data-Analytics-Project/
+
 │── data/                # Raw and cleaned dataset
 
 │── notebooks/           # Jupyter notebooks (EDA & modelling)
